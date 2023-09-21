@@ -1,0 +1,37 @@
+.navdiv{
+    display: flex;
+    justify-content: space-between;
+    background-color: aqua;
+    width: 100%;
+}
+a{
+    text-decoration: none;
+}
+
+.calbox{
+    text-align: center;
+}
+button{
+    width: 50px;
+    width: 50px;
+    font-size: 45px;
+    border-radius: 10px;
+    margin: 10px;
+    background: white;
+    color: black;
+}
+input{
+    width: 270px;
+    height: 50px;
+}
+a{
+    text-decoration: none;
+}
+#bigbox{
+    width: 400px;
+    height: 400px;
+    margin-top: 30px;
+}
+#bbb{
+    font-size: 20px;
+}
