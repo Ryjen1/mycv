@@ -1,7 +1,7 @@
 .navdiv{
     display: flex;
-    justify-content: space-between;
-    background-color: aqua;
+    justify-content: space-around;
+    background-color: #d3d4d3;
     width: 100%;
 }
 a{
@@ -26,6 +26,7 @@ input{
 }
 a{
     text-decoration: none;
+    color: black;
 }
 #bigbox{
     width: 400px;
